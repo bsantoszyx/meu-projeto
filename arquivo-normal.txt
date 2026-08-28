@@ -1,0 +1,1 @@
+Este é um arquivo normal que deve ser versionado pelo Git
